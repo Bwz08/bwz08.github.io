@@ -14,9 +14,9 @@ request_storage = {}
 
 
 # 定义一个简单的API端点，返回JSON数据
-@app.route('/aligenie/77218590cd0******.txt', methods=['GET'])
+@app.route('/aligenie/836b3919a0dc16c18aa723d080719eed.txt', methods=['GET'])
 def hello():
-    return "*****************"
+    return "Jfc4Z4Ur15JwUBuvUQD5wg7Nu8+l+HscqYlfofbyJdbEJ1SwqC6HnN5aPDx0ApX4"
 
 
 # 定义一个接收POST请求的API端点，处理JSON数据
